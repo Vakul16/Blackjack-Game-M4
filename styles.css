@@ -1,0 +1,35 @@
+h1{
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: 'Barlow', sans-serif;
+}
+
+#gamebutton, #hitbutton, #staybutton {
+background: red;
+/* background: linear-gradient(to top right, #1f513b, #0F2725) fixed; */
+color: white;
+border: none;
+padding: 5px 10px;
+border-radius: 5px;
+font-size: 20px;
+font-family: 'Barlow', sans-serif;
+}
+.container {
+    position: relative;
+    text-align: center;
+    /* background-color: rgba(0,0,0,.87); */
+    background-color: #1f513b;
+    height: 675px;
+    padding: 30px 0px;
+    font-family: 'Barlow', sans-serif;
+  }
+  #playerhand, #dealerhand{ 
+   color: cornsilk;
+   padding: 10px 0px;
+   font-size: 16px;
+   font-family: 'Barlow', sans-serif;
+}
+#gamestatus {
+    font-family: 'Barlow', sans-serif;
+    color: white;
+}
