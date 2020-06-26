@@ -1,6 +1,6 @@
-## Black-Jack Game
+# Black-Jack Game
 
-# Technologies used
+## Technologies used
 
 Javascript
 HTML/CSS
